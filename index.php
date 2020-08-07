@@ -38,11 +38,8 @@
 
 <body>
 
-  
-
   <?php require_once('pastas/header.php');?>
   <?php require_once('pastas/hero.php');?>
-
 
   <main id="main">
 
